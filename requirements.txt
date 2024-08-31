@@ -1,0 +1,2 @@
+google-generativeai==1.0.0
+
